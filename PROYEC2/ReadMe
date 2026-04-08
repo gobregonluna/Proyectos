@@ -1,0 +1,67 @@
+📊 Análisis de Rentabilidad y Eficiencia Operativa – Sector Automotriz
+Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI para analizar la rentabilidad y eficiencia operativa de una empresa del sector automotriz,
+el enfoque principal es identificar oportunidades de mejora en los servicios, tiempos de atención y comportamiento de clientes.
+
+🎯 Objetivo
+-Identificar qué servicios generan mayor ingreso y margen
+-Analizar la eficiencia operativa mediante el Lead Time
+-Detectar patrones en clientes (nuevos vs recurrentes)
+-Evaluar el desempeño según tipo de vehículo
+
+🛠️ Herramientas Utilizadas
+Power BI (visualización y modelado)
+Power Query (limpieza y transformación de datos)
+DAX (creación de métricas y KPIs)
+
+⚙️ Proceso Realizado
+🔹 Limpieza de Datos
+-Eliminación de costos negativos
+-Validación de coherencia (Precio vs Costo)
+-Manejo de fechas erróneas
+-Eliminación de duplicados
+🔹 Modelado de Datos
+-Creación de modelo estrella
+-Relación entre tablas de hechos y dimensiones
+🔹 Creación de Métricas (DAX)
+-Total Ingresos
+-Total Costos
+-Utilidad
+-Margen %
+-Lead Time Promedio
+-Autos en Taller
+-Cantidad de Ordenes
+-Costo Promedio
+-Ingreso Promedio
+
+📊 Dashboard
+KPIs principales:
+-Ingresos Totales
+-Utilidad Neta
+-Margen de Rentabilidad
+-Órdenes en Proceso
+
+Visualizaciones:
+-Rentabilidad por Marca de Vehículo
+-Ingreso por Tipo de Servicio
+-Tiempo de Atención por Tipo de Vehículo
+-Valor Financiero por Segmento de Cliente
+-Eficiencia Operativa vs Rentabilidad
+
+📈 Principales Insights
+-Los servicios con mayor volumen no siempre son los más rentables
+-Existen diferencias en eficiencia operativa según tipo de vehículo
+-Los clientes recurrentes tienden a generar mayor margen
+-Se identificaron oportunidades de mejora en tiempos de atención
+
+🚀 Resultados
+El dashboard permite:
+-Toma de decisiones basada en datos
+-Identificación rápida de ineficiencias
+-Análisis dinámico mediante segmentadores
+
+📎 Archivos del Proyecto
+Dashboard en Power BI
+Versión exportada en PDF
+
+👨‍💻 Autor
+Proyecto desarrollado como parte de formación en análisis de datos.
